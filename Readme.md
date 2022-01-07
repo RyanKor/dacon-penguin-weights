@@ -1,10 +1,14 @@
 # 데이콘 펭귄 몸무게 예측 경진대회
 
-![image](https://user-images.githubusercontent.com/40455392/148344581-79057de0-29a2-423e-986e-3661de4c913f.png)
+![image](https://user-images.githubusercontent.com/40455392/148493163-2cac050f-0c56-426f-83ce-a7bae3baef6b.png)
 
 
 
--  현재 스코어 : 284.3466 (684명 중 55등)
+![image](https://user-images.githubusercontent.com/40455392/148493247-d84e5c3e-6153-411d-bb5f-b327bb0bf40f.png)
+
+
+
+-  현재 스코어 : 276.6881 (715명 중 32등, 아... 아깝다!! 조금만 성능 더 높였으면 메달인데..!)
 -  대회 링크 :  [링크](https://dacon.io/competitions/official/235862/overview/description)
 
 
@@ -143,6 +147,7 @@
 ## 5. 후기
 
 - 데이콘의 경우, 한국에서 진행하고 있는 데이터 대회라서 꾸준히 상위 10% 안에는 들고 있습니다.
+  - 조금만 더 성능 높였으면 메달인데!!!!!
 - 그러나 결과적으로 Kaggle 등의 세계 속에서 상위권을 유지하는 것이 더 중요하고, 다양한 문화권과 사람들의 테크닉을 받아들일 필요가 있습니다.
 - `그 때는 맞고, 지금은 틀리다.` 또는 `그 때는 틀리고, 지금은 맞다.` 라는 말이 머신러닝 프로젝트에 가장 잘 들어맞는 것 같습니다.
 - Kaggle TPS 대회에선, `MinMaxScaler` 를 이용해서 데이터 전처리를 했을 때, 더 좋은 성능이 나왔는데, 이 대회에서는 그렇지 않았습니다
